@@ -410,7 +410,7 @@ st.markdown(
     """
     <div style="text-align:center; color:#a8a8a8; font-size:15px; margin:1.5rem 0;">
         📧 robinjain142001@gmail.com • 📞 +91-9991239374<br>
-        Delhi, India • Built with ❤️ By Robin Jain
+        gurgaon, India • Built with ❤️ By Robin Jain
     </div>
     """,
     unsafe_allow_html=True
