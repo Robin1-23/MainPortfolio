@@ -186,8 +186,8 @@ st.html(
     """
     <div class="hero-container">
         <div>
-            <span class="big-title">Robin</span>
-            <span class="lobster">🦞</span>
+            <span class="big-title">Robin 🦞 </span>
+            
         </div>
 
         <div class="subtitle">
